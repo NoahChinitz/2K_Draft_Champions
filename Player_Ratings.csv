@@ -1,0 +1,500 @@
+Player,Rating,Team,Position
+Giannis Antetokounmpo,97,Milwaukee Bucks,F-G
+Joel Embiid,96,Philadelphia 76ers,C
+LeBron James,96,Los Angeles Lakers,F
+Kevin Durant,96,Phoenix Suns,F
+Nikola Jokic,96,Denver Nuggets,C
+Stephen Curry,96,Golden State Warriors,G
+Luka Doncic,95,Dallas Mavericks,G-F
+Kawhi Leonard,94,Los Angeles Clippers,F
+Jayson Tatum,93,Boston Celtics,F
+Ja Morant,93,Memphis Grizzlies,G
+Jimmy Butler,93,Miami Heat,G
+Devin Booker,91,Phoenix Suns,G
+Trae Young,90,Atlanta Hawks,G
+Anthony Davis,90,Los Angeles Lakers,F-C
+Chris Paul,90,Phoenix Suns,G
+James Harden,89,Philadelphia 76ers,G
+DeMar DeRozan,89,Chicago Bulls,G-F
+Kyrie Irving,89,Dallas Mavericks,G
+Karl-Anthony Towns,89,Minnesota Timberwolves,F-C
+Damian Lillard,89,Portland Trail Blazers,G
+Zach LaVine,88,Chicago Bulls,G
+Donovan Mitchell,88,Cleveland Cavaliers,G
+Paul George,88,Los Angeles Clippers,F
+Rudy Gobert,88,Minnesota Timberwolves,C
+Darius Garland,87,Cleveland Cavaliers,G
+Jaylen Brown,87,Boston Celtics,F
+Bam Adebayo,87,Miami Heat,F-C
+LaMelo Ball,87,Charlotte Hornets,G
+Zion Williamson,87,New Orleans Pelicans,F
+Shai Gilgeous-Alexander,87,Oklahoma City Thunder,G
+Bradley Beal,87,Washington Wizards,G
+Jrue Holiday,86,Milwaukee Bucks,G
+Khris Middleton,86,Milwaukee Bucks,F
+Dejounte Murray,86,Atlanta Hawks,G
+Domantas Sabonis,86,Sacramento Kings,F-C
+Brandon Ingram,86,New Orleans Pelicans,F
+Pascal Siakam,86,Toronto Raptors,F
+Anthony Edwards,86,Minnesota Timberwolves,G
+Tyrese Maxey,85,Philadelphia 76ers,G
+Jarrett Allen,85,Cleveland Cavaliers,C
+Robert Williams,85,Boston Celtics,F-C
+CJ McCollum,85,New Orleans Pelicans,G
+Deandre Ayton,85,Phoenix Suns,C
+Kristaps Porzingis,85,Washington Wizards,F-C
+Evan Mobley,84,Cleveland Cavaliers,F-C
+Clint Capela,84,Atlanta Hawks,C
+Tyler Herro,84,Miami Heat,G
+De'Aaron Fox,84,Sacramento Kings,G
+RJ Barrett,84,New York Knicks,G
+Christian Wood,84,Dallas Mavericks,F
+Jamal Murray,84,Denver Nuggets,G
+Tyrese Haliburton,84,Indiana Pacers,G
+Cade Cunningham,84,Detroit Pistons,F
+Scottie Barnes,84,Toronto Raptors,F
+Fred VanVleet,84,Toronto Raptors,G
+Andrew Wiggins,84,Golden State Warriors,F
+Nikola Vucevic,83,Chicago Bulls,C
+Desmond Bane,83,Memphis Grizzlies,G
+John Collins,83,Atlanta Hawks,F
+Jalen Brunson,83,New York Knicks,G
+Wendell Carter,83,Orlando Magic,C
+Ben Simmons,83,Brooklyn Nets,F
+Jonas Valanciunas,83,New Orleans Pelicans,C
+Mikal Bridges,83,Brooklyn Nets,F-G
+Jordan Poole,83,Golden State Warriors,G
+Klay Thompson,83,Golden State Warriors,G
+Draymond Green,83,Golden State Warriors,F
+Tobias Harris,82,Philadelphia 76ers,F
+Lonzo Ball,82,Chicago Bulls,G
+Marcus Smart,82,Boston Celtics,G
+Al Horford,82,Boston Celtics,C
+Malcolm Brogdon,82,Boston Celtics,G
+Steven Adams,82,Memphis Grizzlies,C
+Kyle Lowry,82,Miami Heat,G
+Terry Rozier,82,Charlotte Hornets,G
+Mike Conley,82,Minnesota Timberwolves,G
+Julius Randle,82,New York Knicks,F
+Myles Turner,82,Indiana Pacers,F-C
+Jalen Green,82,Houston Rockets,G
+Keldon Johnson,82,San Antonio Spurs,F
+Josh Giddey,82,Oklahoma City Thunder,G
+D'Angelo Russell,82,Los Angeles Lakers,G
+Jerami Grant,82,Portland Trail Blazers,F
+Jusuf Nurkic,82,Portland Trail Blazers,C
+Mitchell Robinson,81,New York Knicks,C
+Derrick Rose,81,New York Knicks,G
+OG Anunoby,81,Toronto Raptors,F-G
+Kyle Kuzma,81,Washington Wizards,F
+Brook Lopez,80,Milwaukee Bucks,C
+Bobby Portis,80,Milwaukee Bucks,F-C
+Kevin Love,80,Miami Heat,C
+Norman Powell,80,Los Angeles Clippers,G
+Dillon Brooks,80,Memphis Grizzlies,G-F
+Bogdan Bogdanovic,80,Atlanta Hawks,G
+Gordon Hayward,80,Charlotte Hornets,F
+Bojan Bogdanovic,80,Detroit Pistons,G-F
+Harrison Barnes,80,Sacramento Kings,F
+Franz Wagner,80,Orlando Magic,F
+Spencer Dinwiddie,80,Brooklyn Nets,G
+Michael Porter,80,Denver Nuggets,F
+Saddiq Bey,80,Atlanta Hawks,F
+Cameron Johnson,80,Brooklyn Nets,F
+Anfernee Simons,80,Portland Trail Blazers,G
+Josh Hart,80,New York Knicks,G
+Andre Drummond,79,Chicago Bulls,C
+Kelly Oubre,79,Charlotte Hornets,F
+Mo Bamba,79,Los Angeles Lakers,C
+TJ Warren,79,Phoenix Suns,F
+Aaron Gordon,79,Denver Nuggets,F
+Gary Trent Jr,79,Toronto Raptors,G
+Monte Morris,79,Washington Wizards,G
+Caris LeVert,78,Cleveland Cavaliers,G
+Ricky Rubio,78,Cleveland Cavaliers,G
+Derrick White,78,Boston Celtics,G
+Danilo Gallinari,78,Boston Celtics,F
+John Wall,78,,-
+Victor Oladipo,78,Miami Heat,G
+PJ Washington,78,Charlotte Hornets,F
+Collin Sexton,78,Utah Jazz,G
+Jarred Vanderbilt,78,Los Angeles Lakers,F
+Lauri Markkanen,78,Utah Jazz,F-C
+Russell Westbrook,78,Los Angeles Clippers,G
+Patrick Beverley,78,Chicago Bulls,G
+Cole Anthony,78,Orlando Magic,G
+Paolo Banchero,78,Orlando Magic,F
+Jonathan Isaac,78,Orlando Magic,F
+Dorian Finney-Smith,78,Brooklyn Nets,F
+Seth Curry,78,Brooklyn Nets,G
+Buddy Hield,78,Indiana Pacers,G
+Herb Jones,78,New Orleans Pelicans,F
+Jabari Smith,78,Houston Rockets,F
+Jakob Poeltl,78,Toronto Raptors,C-F
+Jonathan Kuminga,78,Golden State Warriors,G
+PJ Tucker,77,Philadelphia 76ers,F
+De'Anthony Melton,77,Philadelphia 76ers,G
+Matisse Thybulle,77,Portland Trail Blazers,G-F
+Alex Caruso,77,Chicago Bulls,G
+Grant Williams,77,Boston Celtics,F
+Ivica Zubac,77,Los Angeles Clippers,C
+Reggie Jackson,77,Denver Nuggets,G
+Marcus Morris,77,Los Angeles Clippers,F
+Tyus Jones,77,Memphis Grizzlies,G
+Jordan Clarkson,77,Utah Jazz,G
+Davion Mitchell,77,Sacramento Kings,G
+Immanuel Quickley,77,New York Knicks,G
+Markelle Fultz,77,Orlando Magic,G
+JaVale McGee,77,Dallas Mavericks,C
+Chris Duarte,77,Indiana Pacers,G
+Kevin Porter,77,Houston Rockets,G-F
+Jae'Sean Tate,77,Houston Rockets,F
+Alperen Sengun,77,Houston Rockets,F
+Luguentz Dort,77,Oklahoma City Thunder,G
+Chet Holmgren,77,Oklahoma City Thunder,C
+Gary Payton II,77,Golden State Warriors,G
+Will Barton,77,Toronto Raptors,G
+Daniel Gafford,77,Washington Wizards,F
+Joe Ingles,76,Milwaukee Bucks,F
+Pat Connaughton,76,Milwaukee Bucks,G
+Coby White,76,Chicago Bulls,G
+Javonte Green,76,Chicago Bulls,G
+Ayo Dosunmu,76,Chicago Bulls,G
+Payton Pritchard,76,Boston Celtics,G
+Luke Kennard,76,Memphis Grizzlies,F
+Robert Covington,76,Los Angeles Clippers,F
+Nicolas Batum,76,Los Angeles Clippers,F-G
+Brandon Clarke,76,Memphis Grizzlies,F
+De'Andre Hunter,76,Atlanta Hawks,F
+Onyeka Okongwu,76,Atlanta Hawks,F
+Max Strus,76,Miami Heat,G
+Caleb Martin,76,Miami Heat,F
+Keegan Murray,76,Sacramento Kings,F
+Malik Monk,76,Sacramento Kings,G
+Kevin Huerter,76,Sacramento Kings,G
+Terence Davis,76,Sacramento Kings,F
+Evan Fournier,76,New York Knicks,G
+Obi Toppin,76,New York Knicks,F
+Thomas Bryant,76,Denver Nuggets,C
+Dwight Powell,76,Dallas Mavericks,F-C
+Nicolas Claxton,76,Brooklyn Nets,C
+Joe Harris,76,Brooklyn Nets,G
+Kentavious Caldwell-Pope,76,Denver Nuggets,G
+Bruce Brown,76,Denver Nuggets,G
+Jeff Green,76,Denver Nuggets,F
+Zeke Nnaji,76,Denver Nuggets,F
+Bones Hyland,76,Los Angeles Clippers,G
+Isaiah Jackson,76,Indiana Pacers,F
+Jalen Smith,76,Indiana Pacers,F
+Jose Alvarado,76,New Orleans Pelicans,G
+Jaxson Hayes,76,New Orleans Pelicans,F-C
+Jaden Ivey,76,Detroit Pistons,G
+Marvin Bagley,76,Detroit Pistons,F
+Isaiah Stewart,76,Detroit Pistons,F
+Kelly Olynyk,76,Utah Jazz,C
+Alec Burks,76,Detroit Pistons,G
+Nerlens Noel,76,,-
+Hamidou Diallo,76,Detroit Pistons,G
+Precious Achiuwa,76,Toronto Raptors,F
+Chris Boucher,76,Toronto Raptors,F-C
+Otto Porter,76,Toronto Raptors,F
+Devin Vassell,76,San Antonio Spurs,G
+Josh Richardson,76,New Orleans Pelicans,G
+Jae Crowder,76,Milwaukee Bucks,F
+Cameron Payne,76,Phoenix Suns,G
+Dario Saric,76,Oklahoma City Thunder,F
+Darius Bazley,76,Phoenix Suns,F
+Kyle Anderson,76,Minnesota Timberwolves,F
+Taurean Prince,76,Minnesota Timberwolves,F
+Nassir Little,76,Portland Trail Blazers,F
+JaMychal Green,76,Golden State Warriors,F
+Deni Avdija,76,Washington Wizards,F
+Rui Hachimura,76,Los Angeles Lakers,F
+Grayson Allen,75,Milwaukee Bucks,G
+Serge Ibaka,75,,-
+Patrick Williams,75,Chicago Bulls,F
+Isaac Okoro,75,Cleveland Cavaliers,F
+Robin Lopez,75,Cleveland Cavaliers,C
+Lamar Stevens,75,Cleveland Cavaliers,F
+Cedi Osman,75,Cleveland Cavaliers,F-G
+Raul Neto,75,Cleveland Cavaliers,G
+Amir Coffey,75,Los Angeles Clippers,F
+Terance Mann,75,Los Angeles Clippers,G
+Xavier Tillman,75,Memphis Grizzlies,F
+John Konchar,75,Memphis Grizzlies,G
+Aaron Holiday,75,Atlanta Hawks,G
+Omer Yurtseven,75,Miami Heat,C
+Gabe Vincent,75,Miami Heat,G
+Dewayne Dedmon,75,Philadelphia 76ers,C
+Mason Plumlee,75,Los Angeles Clippers,C-F
+Cody Martin,75,Charlotte Hornets,F
+Rudy Gay,75,Utah Jazz,F
+Malik Beasley,75,Los Angeles Lakers,G
+Richaun Holmes,75,Sacramento Kings,F
+Trey Lyles,75,Sacramento Kings,F
+Chimezie Metu,75,Sacramento Kings,F
+Lonnie Walker,75,Los Angeles Lakers,G
+Jalen Suggs,75,Orlando Magic,G
+Terrence Ross,75,Phoenix Suns,G
+Chuma Okeke,75,Orlando Magic,F
+Moritz Wagner,75,Orlando Magic,F
+Reggie Bullock,75,Dallas Mavericks,G
+Maxi Kleber,75,Dallas Mavericks,F-C
+Edmond Sumner,75,Brooklyn Nets,G
+Ishmael Smith,75,Denver Nuggets,G
+Daniel Theis,75,Indiana Pacers,C
+Goga Bitadze,75,Orlando Magic,C
+Oshae Brissett,75,Indiana Pacers,F
+TJ McConnell,75,Indiana Pacers,G
+Devonte Graham,75,San Antonio Spurs,G
+Trey Murphy,75,New Orleans Pelicans,G
+Khem Birch,75,San Antonio Spurs,C
+Eric Gordon,75,Los Angeles Clippers,G
+KJ Martin,75,Houston Rockets,F
+Josh Christopher,75,Houston Rockets,G
+Isaiah Roby,75,New York Knicks,F
+Derrick Favors,75,,-
+Kenrich Williams,75,Oklahoma City Thunder,G-F
+Tre Mann,75,Oklahoma City Thunder,G
+Aleksej Pokusevski,75,Oklahoma City Thunder,F
+Mike Muscala,75,Boston Celtics,F-C
+Naz Reid,75,Minnesota Timberwolves,C
+Jaden McDaniels,75,Minnesota Timberwolves,F
+Jaylen Nowell,75,Minnesota Timberwolves,G
+Jordan McLaughlin,75,Minnesota Timberwolves,G
+Eric Paschall,75,,-
+Drew Eubanks,75,Portland Trail Blazers,C
+Justise Winslow,75,Portland Trail Blazers,F
+Kevon Looney,75,Golden State Warriors,F
+Donte DiVincenzo,75,Golden State Warriors,G
+James Wiseman,75,Detroit Pistons,C
+Corey Kispert,75,Washington Wizards,F
+Delon Wright,75,Washington Wizards,G
+Shake Milton,74,Philadelphia 76ers,G
+Goran Dragic,74,Milwaukee Bucks,G
+Tony Bradley,74,,-
+Derrick Jones,74,Chicago Bulls,F
+Ziaire Williams,74,Memphis Grizzlies,F
+Frank Kaminsky,74,Houston Rockets,C
+Duncan Robinson,74,Miami Heat,F
+Talen Horton-Tucker,74,Utah Jazz,G
+Jared Butler,74,Oklahoma City Thunder,G
+Alex Len,74,Sacramento Kings,C
+Isaiah Hartenstein,74,New York Knicks,F-C
+Cam Reddish,74,Portland Trail Blazers,F-G
+Austin Reaves,74,Los Angeles Lakers,G
+Kendrick Nunn,74,Washington Wizards,G
+Gary Harris,74,Orlando Magic,G
+Royce O'Neale,74,Brooklyn Nets,F
+Cam Thomas,74,Brooklyn Nets,G
+Bennedict Mathurin,74,Indiana Pacers,G
+Terry Taylor,74,Chicago Bulls,G-F
+Willy Hernangomez,74,New Orleans Pelicans,C-F
+Saben Lee,74,Phoenix Suns,G
+Thaddeus Young,74,Toronto Raptors,F
+David Nwaba,74,Oklahoma City Thunder,G
+Tre Jones,74,San Antonio Spurs,G
+Doug McDermott,74,San Antonio Spurs,G
+Keita Bates-Diop,74,San Antonio Spurs,F
+Zach Collins,74,San Antonio Spurs,C
+Gorgui Dieng,74,San Antonio Spurs,C
+Torrey Craig,74,Phoenix Suns,G
+Trendon Watford,74,Portland Trail Blazers,F
+Taj Gibson,74,Washington Wizards,F
+Johnny Davis,74,Washington Wizards,G-F
+Furkan Korkmaz,73,Philadelphia 76ers,F
+Georges Niang,73,Philadelphia 76ers,F
+Paul Reed,73,Philadelphia 76ers,F
+Charles Bassey,73,San Antonio Spurs,F
+George Hill,73,Indiana Pacers,G
+Dean Wade,73,Cleveland Cavaliers,F-C
+Danny Green,73,Cleveland Cavaliers,G
+Jalen Johnson,73,Atlanta Hawks,F
+Chris Silva,73,,-
+Nick Richards,73,Charlotte Hornets,C
+Jalen McDaniels,73,Philadelphia 76ers,F
+Ochai Agbaji,73,Utah Jazz,G
+Davis Bertans,73,Dallas Mavericks,F
+Josh Green,73,Dallas Mavericks,G
+Day'Ron Sharpe,73,Brooklyn Nets,F
+Dyson Daniels,73,New Orleans Pelicans,F-G
+Naji Marshall,73,New Orleans Pelicans,F
+Jalen Duren,73,Detroit Pistons,C
+Cory Joseph,73,Detroit Pistons,G
+Garrison Mathews,73,Atlanta Hawks,G
+Usman Garuba,73,Houston Rockets,F-C
+Boban Marjanovic,73,Houston Rockets,C
+Marquese Chriss,73,Oklahoma City Thunder,F
+Jeremy Sochan,73,San Antonio Spurs,F
+Landry Shamet,73,Phoenix Suns,G
+Damion Lee,73,Phoenix Suns,G
+Jeremiah Robinson-Earl,73,Oklahoma City Thunder,F
+Aaron Wiggins,73,Oklahoma City Thunder,G
+Bryn Forbes,73,,-
+Austin Rivers,73,Minnesota Timberwolves,G
+Brandon Williams,73,,-
+Moses Moody,73,Golden State Warriors,G
+Vernon Carey,73,Utah Jazz,C
+Danuel House,72,Philadelphia 76ers,F
+Wesley Matthews,72,Milwaukee Bucks,G
+Thanasis Antetokounmpo,72,Milwaukee Bucks,F
+Jevon Carter,72,Milwaukee Bucks,G
+BJ Boston,72,Los Angeles Clippers,G
+Moses Brown,72,,-
+David Roddy,72,Memphis Grizzlies,F
+Justin Holiday,72,Dallas Mavericks,G
+AJ Griffin,72,Atlanta Hawks,F
+Mark Williams,72,Charlotte Hornets,F-C
+James Bouknight,72,Charlotte Hornets,G
+Kai Jones,72,Charlotte Hornets,F
+Stanley Johnson,72,,-
+Nickeil Alexander-Walker,72,Minnesota Timberwolves,G
+Simone Fontecchio,72,Utah Jazz,F
+Quentin Grimes,72,New York Knicks,G
+Juan Toscano-Anderson,72,Utah Jazz,F
+Troy Brown,72,Los Angeles Lakers,F-G
+Damian Jones,72,Utah Jazz,C
+RJ Hampton,72,Detroit Pistons,G
+Frank Ntilikina,72,Dallas Mavericks,G
+Patrick Mills,72,Brooklyn Nets,G
+Markieff Morris,72,Dallas Mavericks,F
+Yuta Watanabe,72,Brooklyn Nets,F
+David Duke,72,Brooklyn Nets,G
+DeAndre Jordan,72,Denver Nuggets,C
+Davon Reed,72,,-
+Kira Lewis,72,New Orleans Pelicans,G
+Isaiah Livers,72,Detroit Pistons,F
+Dalano Banton,72,Toronto Raptors,G
+Juan Hernangomez,72,Toronto Raptors,F
+Josh Jackson,72,,-
+Tari Eason,72,Houston Rockets,F
+Josh Primo,72,,-
+Malaki Branham,72,San Antonio Spurs,G
+Alize Johnson,72,,-
+Bismack Biyombo,72,Phoenix Suns,C
+Duane Washington Jr,72,New York Knicks,G
+Ty Jerome,72,Golden State Warriors,G
+Theo Maledon,72,Charlotte Hornets,G
+Ousmane Dieng,72,Oklahoma City Thunder,G
+Jalen Williams,72,Oklahoma City Thunder,G
+CJ Elleby,72,,-
+Greg Brown,72,,-
+Shaedon Sharpe,72,Portland Trail Blazers,G
+Anthony Gill,72,Washington Wizards,F
+MarJon Beauchamp,71,Milwaukee Bucks,F
+Luca Vildoza,71,,-
+Sandro Mamukelashvili,71,San Antonio Spurs,F-C
+Dalen Terry,71,Chicago Bulls,F-G
+Dylan Windler,71,Cleveland Cavaliers,F-G
+Sam Hauser,71,Boston Celtics,F
+Jake LaRavia,71,Memphis Grizzlies,F
+Moe Harkless,71,,-
+Nikola Jovic,71,Miami Heat,F
+Walker Kessler,71,Utah Jazz,C
+Leandro Bolmaro,71,,-
+Sam Merrill,71,Cleveland Cavaliers,G
+Miles McBride,71,New York Knicks,G
+Jericho Sims,71,New York Knicks,C
+Wenyen Gabriel,71,Los Angeles Lakers,F
+Bol Bol,71,Orlando Magic,C
+Kessler Edwards,71,Sacramento Kings,F-G
+Christian Braun,71,Denver Nuggets,G
+Vlatko Cancar,71,Denver Nuggets,G
+Aaron Nesmith,71,Indiana Pacers,G-F
+Killian Hayes,71,Detroit Pistons,G
+Kevin Knox,71,Portland Trail Blazers,F
+Rodney McGruder,71,Detroit Pistons,G
+Armoni Brooks,71,,-
+DJ Wilson,71,,-
+TyTy Washington,71,Houston Rockets,G
+Trey Burke,71,Oklahoma City Thunder,G
+Blake Wesley,71,San Antonio Spurs,G
+Josh Okogie,71,Phoenix Suns,G
+Lindy Waters III,71,Oklahoma City Thunder,G
+Wendell Moore,71,Minnesota Timberwolves,F
+Nathan Knight,71,Minnesota Timberwolves,C
+Luka Garza,71,Minnesota Timberwolves,C
+Keon Johnson,71,Portland Trail Blazers,G
+Jaden Springer,70,Philadelphia 76ers,G
+Marko Simonovic,70,Chicago Bulls,C
+Luke Kornet,70,Boston Celtics,C
+Mfiondu Kabengele,70,Boston Celtics,F
+Jason Preston,70,Los Angeles Clippers,G
+Santiago Aldama,70,Memphis Grizzlies,C
+Kennedy Chandler,70,,-
+Udonis Haslem,70,Miami Heat,F
+JT Thor,70,Charlotte Hornets,F
+Bryce McGowens,70,Charlotte Hornets,G
+Neemias Queta,70,Sacramento Kings,C
+Max Christie,70,Los Angeles Lakers,G
+Caleb Houstan,70,Orlando Magic,F
+Jaden Hardy,70,Dallas Mavericks,G
+Peyton Watson,70,Denver Nuggets,G
+Andrew Nembhard,70,Indiana Pacers,G
+Garrett Temple,70,New Orleans Pelicans,G-F
+Justin Champagnie,70,Boston Celtics,F
+Christian Koloko,70,Toronto Raptors,C
+Sterling Brown,70,,-
+Romeo Langford,70,San Antonio Spurs,G
+Joe Wieskamp,70,Toronto Raptors,G
+Jock Landale,70,Phoenix Suns,C
+Ishmail Wainright,70,Phoenix Suns,G
+Jaylin Williams,70,Oklahoma City Thunder,C
+Vit Krejci,70,Atlanta Hawks,G
+Devontae Cacok,70,,-
+Patrick Baldwin,70,Golden State Warriors,F-G
+Isaiah Todd,70,Washington Wizards,F-C
+Isaiah Joe,69,Oklahoma City Thunder,G
+Lindell Wigginton,69,Milwaukee Bucks,G
+Isaiah Mobley,69,Cleveland Cavaliers,F
+JD Davison,69,Boston Celtics,G
+Moussa Diabate,69,Los Angeles Clippers,C
+Killian Tillie,69,,-
+Kenneth Lofton,69,Memphis Grizzlies,F
+Admiral Schofield,69,Orlando Magic,F
+Julian Champagnie,68,San Antonio Spurs,G-F
+Haywood Highsmith,68,Miami Heat,F
+Marcus Garrett,68,,-
+Johnny Juzang,68,Utah Jazz,G
+Xavier Sneed,68,Charlotte Hornets,F-G
+Keon Ellis,68,Sacramento Kings,G
+Trevor Keels,68,New York Knicks,G
+Scottie Pippen Jr,68,Los Angeles Lakers,F
+Theo Pinson,68,Dallas Mavericks,G
+McKinley Wright,68,Dallas Mavericks,G
+Alondes Williams,68,,-
+Collin Gillespie,68,Denver Nuggets,G
+Buddy Boeheim,68,Detroit Pistons,G
+Ron Harper Jr,68,Toronto Raptors,G
+Trevor Hudgins,68,Houston Rockets,G
+Eugene Omoruyi,68,Detroit Pistons,F
+Josh Minott,68,Minnesota Timberwolves,F
+Jabari Walker,68,Portland Trail Blazers,F
+Didi Louzada,68,,-
+Ryan Rollins,68,Golden State Warriors,G
+Quinndary Weatherspoon,68,,-
+Trevelin Queen,67,,-
+AJ Green,67,Milwaukee Bucks,G
+Carlik Jones,67,Chicago Bulls,G
+Justin Lewis,67,Chicago Bulls,F
+RJ Nembhard,67,,-
+Xavier Moon,67,Los Angeles Clippers,G
+Chaundee Brown,67,,-
+Darius Days,67,Houston Rockets,F
+Feron Hunt,67,,-
+Jay Huff,67,Washington Wizards,C
+Cole Swider,67,Los Angeles Lakers,F
+Devin Cannady,67,,-
+Kevon Harris,67,Orlando Magic,F
+Justin Tillman,67,,-
+Jack White,67,Denver Nuggets,F
+Braxton Key,67,,-
+Jeff Dowtin,67,Toronto Raptors,G
+Daishen Nix,67,Houston Rockets,G
+Jordan Hall,67,,-
+AJ Lawson,67,Dallas Mavericks,F
+Olivier Sarr,67,,-
+Mac McClung,67,Philadelphia 76ers,G
+Lester Quinones,67,Golden State Warriors,G
+Jordan Schakel,67,,-
+Tyler Hall,66,,-
