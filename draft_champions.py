@@ -1,5 +1,11 @@
 import pandas as pd
 import random
+from termcolor import colored
+
+BLUE = 'blue'
+RED = 'red'
+GREEN = 'green'
+YELLOW = 'yellow'
 
 
 class Player(object):
@@ -82,20 +88,20 @@ class Game(object):
         return choices
 
     def print_choices(self, choices):
-        print("Choices:")
+        print(colored("Choices:", YELLOW))
         for i, player in enumerate(choices):
             print(f"{i+1}: {player}")
 
     def print_teams(self):
         print("="*50)
-        print(self.team1)
+        print(colored(self.team1, RED))
         print("="*50)
-        print(self.team2)
+        print(colored(self.team2, GREEN))
         print("="*50)
 
     def choose_guard_1(self):
         print("="*50)
-        print(f"{self.team1.name} pick your first guard")
+        print(colored(f"{self.team1.name} pick your first guard", RED))
         choices = self.get_choices(self.guard_list, 4)
         self.print_choices(choices)
         chosen = int(input("\nWhich player? "))
@@ -103,7 +109,7 @@ class Game(object):
         self.guard_list.remove(self.team1.g1)
         self.player_list.remove(self.team1.g1)
         print("="*50)
-        print(f"{self.team2.name} pick your first guard")
+        print(colored(f"{self.team2.name} pick your first guard", GREEN))
         choices = self.get_choices(self.guard_list, 4)
         self.print_choices(choices)
         chosen = int(input("\nWhich player? "))
@@ -115,7 +121,7 @@ class Game(object):
 
     def choose_guard_2(self):
         print("="*50)
-        print(f"{self.team1.name} pick your second guard")
+        print(colored(f"{self.team1.name} pick your second guard", RED))
         choices = self.get_choices(self.guard_list, 4)
         self.print_choices(choices)
         chosen = int(input("\nWhich player? "))
@@ -123,7 +129,7 @@ class Game(object):
         self.guard_list.remove(self.team1.g2)
         self.player_list.remove(self.team1.g2)
         print("="*50)
-        print(f"{self.team2.name} pick your second guard")
+        print(colored(f"{self.team2.name} pick your second guard", GREEN))
         choices = self.get_choices(self.guard_list, 4)
         self.print_choices(choices)
         chosen = int(input("\nWhich player? "))
@@ -135,7 +141,7 @@ class Game(object):
 
     def choose_forward_1(self):
         print("="*50)
-        print(f"{self.team1.name} pick your first forward")
+        print(colored(f"{self.team1.name} pick your first forward", RED))
         choices = self.get_choices(self.forward_list, 4)
         self.print_choices(choices)
         chosen = int(input("\nWhich player? "))
@@ -143,7 +149,7 @@ class Game(object):
         self.forward_list.remove(self.team1.f1)
         self.player_list.remove(self.team1.f1)
         print("="*50)
-        print(f"{self.team2.name} pick your first forward")
+        print(colored(f"{self.team2.name} pick your first forward", GREEN))
         choices = self.get_choices(self.forward_list, 4)
         self.print_choices(choices)
         chosen = int(input("\nWhich player? "))
@@ -155,7 +161,7 @@ class Game(object):
     
     def choose_forward_2(self):
         print("="*50)
-        print(f"{self.team1.name} pick your second forward")
+        print(colored(f"{self.team1.name} pick your second forward", RED))
         choices = self.get_choices(self.forward_list, 4)
         self.print_choices(choices)
         chosen = int(input("\nWhich player? "))
@@ -163,7 +169,7 @@ class Game(object):
         self.forward_list.remove(self.team1.f2)
         self.player_list.remove(self.team1.f2)
         print("="*50)
-        print(f"{self.team2.name} pick your second forward")
+        print(colored(f"{self.team2.name} pick your second forward", GREEN))
         choices = self.get_choices(self.forward_list, 4)
         self.print_choices(choices)
         chosen = int(input("\nWhich player? "))
@@ -175,7 +181,7 @@ class Game(object):
 
     def choose_center(self):
         print("="*50)
-        print(f"{self.team1.name} pick your center")
+        print(colored(f"{self.team1.name} pick your center", RED))
         choices = self.get_choices(self.center_list, 4)
         self.print_choices(choices)
         chosen = int(input("\nWhich player? "))
@@ -183,7 +189,7 @@ class Game(object):
         self.center_list.remove(self.team1.c)
         self.player_list.remove(self.team1.c)
         print("="*50)
-        print(f"{self.team2.name} pick your center")
+        print(colored(f"{self.team2.name} pick your center", GREEN))
         choices = self.get_choices(self.center_list, 4)
         self.print_choices(choices)
         chosen = int(input("\nWhich player? "))
@@ -195,14 +201,14 @@ class Game(object):
 
     def choose_sub(self):
         print("="*50)
-        print(f"{self.team1.name} pick your substitute")
+        print(colored(f"{self.team1.name} pick your sixth man", RED))
         choices = self.get_choices(self.player_list, 4)
         self.print_choices(choices)
         chosen = int(input("\nWhich player? "))
         self.team1.sub = choices[chosen-1]
         self.player_list.remove(self.team1.sub)
         print("="*50)
-        print(f"{self.team2.name} pick your substitute")
+        print(colored(f"{self.team2.name} pick your sixth man", GREEN))
         choices = self.get_choices(self.player_list, 4)
         self.print_choices(choices)
         chosen = int(input("\nWhich player? "))
@@ -240,5 +246,5 @@ if __name__ == "__main__":
 
     game.print_teams()
     team1_rating, team2_rating = game.get_ratings()
-    print(f"{team1.name} rating: {team1_rating}")
-    print(f"{team2.name} rating: {team2_rating}")
+    print(colored(f"{team1.name} rating: {team1_rating}", YELLOW))
+    print(colored(f"{team2.name} rating: {team2_rating}", YELLOW))
